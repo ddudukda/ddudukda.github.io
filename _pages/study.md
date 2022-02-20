@@ -1,0 +1,4 @@
+---
+permalink: /study/
+title: "Study"
+---
