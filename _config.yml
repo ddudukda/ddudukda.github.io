@@ -24,7 +24,7 @@ description              : "했으면 정리를!!! 기억 좀 하자."
 url                      : "https://ddudukda.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/ddudukda/ddudukda.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/img/ddoll.jpeg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/img/airsky.jpeg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "화면타이틀" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
