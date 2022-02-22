@@ -1,14 +1,22 @@
 # main links
+#- title: "Quick-Start Guide"
+#  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 main:
-  #- title: "Quick-Start Guide"
-  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url: /about/
-  - title: "Project"
-    url: /project/
+  - title: "Home"
+    url: /
+
+sidebar_main:
   - title: "Study"
-    sublinks:
-    - title: "java"
-      url: /java/
-  - title: "Tags"
-    url: /tags/
+    children:
+      - title: "java"
+        url: /study/java/
+        category: "java"
+      - title: "certificate"
+        url: /study/certificate/
+        category: "certificate"
+  - title: "Project"
+    children:
+      - title: LMS
+        category: "project"    

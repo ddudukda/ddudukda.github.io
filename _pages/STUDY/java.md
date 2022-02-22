@@ -1,8 +1,9 @@
 ---
-layouts: category
-permalink: /java/
-title: "java"
+layouts: archive
+permalink: /study/java/
+excerpt: "java"
+author_profile: true
 ---
 
 ##
-자바
+!!!!
