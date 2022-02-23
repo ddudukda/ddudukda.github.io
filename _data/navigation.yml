@@ -19,4 +19,5 @@ sidebar_main:
   - title: "Project"
     children:
       - title: LMS
+        url: /project/lms/
         category: "project"    
