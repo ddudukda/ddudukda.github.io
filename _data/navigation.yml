@@ -16,6 +16,11 @@ sidebar_main:
       - title: "certificate"
         url: /study/certificate/
         category: "certificate"
+  - title: "Coding"
+    children:
+      - title: test
+        url: /coding/test/
+        category: "coding"       
   - title: "Project"
     children:
       - title: what
