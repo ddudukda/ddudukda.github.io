@@ -18,6 +18,6 @@ sidebar_main:
         category: "certificate"
   - title: "Project"
     children:
-      - title: LMS
-        url: /project/lms/
+      - title: what
+        url: /project/what/
         category: "project"    

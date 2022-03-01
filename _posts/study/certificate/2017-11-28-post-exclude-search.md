@@ -3,6 +3,8 @@ title:  "테스트용"
 search: false
 categories: 
   - certificate
+tags:
+  - test  
 last_modified_at: 2022-02-22T08:06:00-05:00
 author_profile: true
 sidebar:
