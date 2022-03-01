@@ -8,6 +8,11 @@ main:
     url: /
 
 sidebar_main:
+  - title: "Coding"
+    children:
+      - title: "test"
+        url: /coding/test/
+        category: "coding"   
   - title: "Study"
     children:
       - title: "java"
@@ -15,14 +20,9 @@ sidebar_main:
         category: "java"
       - title: "certificate"
         url: /study/certificate/
-        category: "certificate"
-  - title: "Coding"
-    children:
-      - title: test
-        url: /coding/test/
-        category: "coding"       
+        category: "certificate"           
   - title: "Project"
     children:
       - title: what
         url: /project/what/
-        category: "project"    
+        category: "project" 

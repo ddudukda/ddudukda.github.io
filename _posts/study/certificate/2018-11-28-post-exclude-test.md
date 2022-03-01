@@ -1,6 +1,5 @@
 ---
 title:  "태그 나누기"
-search: false
 categories: 
   - certificate
 tags:
