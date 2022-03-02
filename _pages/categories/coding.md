@@ -1,5 +1,5 @@
 ---
-layout: tags
+layout: categories
 permalink: /coding/test/
 excerpt: "test"
 categories:

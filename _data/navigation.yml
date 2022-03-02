@@ -4,9 +4,11 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Tags"
+    url: /tags/
   - title: "Home"
     url: /
-
+  
 sidebar_main:
   - title: "Coding"
     children:
