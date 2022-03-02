@@ -13,16 +13,3 @@ sidebar_main:
       - title: "test"
         url: /coding/test/
         category: "coding"   
-  - title: "Study"
-    children:
-      - title: "java"
-        url: /study/java/
-        category: "java"
-      - title: "certificate"
-        url: /study/certificate/
-        category: "certificate"           
-  - title: "Project"
-    children:
-      - title: what
-        url: /project/what/
-        category: "project" 
