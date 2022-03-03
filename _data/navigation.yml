@@ -10,8 +10,13 @@ main:
     url: /
   
 sidebar_main:
-  - title: "Code"
+  - title: "NOTE"
+    url: /categories/
     children:
-      - title: "Question"
-        url: /code/question/
-        category: "question"       
+      - title: "문제"
+        url: /question/
+        category: "question"
+      - title: "메모"
+        url: /memo/
+        category: "memo"  
+            

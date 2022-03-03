@@ -1,7 +1,8 @@
 ---
-layout: categories
-permalink: /code/question/
-excerpt: "test"
+layout: postslist
+title: question
+permalink: /question/
+excerpt: "question"
 categories:
  - question
 author_profile: true

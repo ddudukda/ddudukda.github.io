@@ -1,0 +1,13 @@
+---
+layout: archive
+---
+{{ content }}
+
+{% if site.posts.size==0 %}
+  <h2>준비중</h2>
+{% endif%}
+
+<section>
+  <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+</section>
+
