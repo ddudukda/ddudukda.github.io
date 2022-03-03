@@ -7,6 +7,19 @@ layout: archive
   <h2>준비중</h2>
 {% endif%}
 
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+
+{% for category in site.categories %}
+  <h2 class="archive__subtitle">{{category | first}}</h2>
+    <section id="{{ slugify | downcase }}" class="taxonomy__section">
+      <div class="entries-{{ entries_layout }}">
+        {% for post in category.last %}
+          {% include archive-single.html type=entries_layout %}
+        {% endfor %}
+      </div>
+    </section>
+{% endfor %}
+
 <section>
   <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
 </section>
