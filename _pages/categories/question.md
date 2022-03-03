@@ -1,9 +1,9 @@
 ---
 layout: categories
-permalink: /coding/test/
+permalink: /code/question/
 excerpt: "test"
 categories:
- - coding
+ - question
 author_profile: true
 sidebar:
     nav: "sidebar_main"

@@ -10,8 +10,8 @@ main:
     url: /
   
 sidebar_main:
-  - title: "Coding"
+  - title: "Code"
     children:
-      - title: "test"
-        url: /coding/test/
-        category: "coding"   
+      - title: "Question"
+        url: /code/question/
+        category: "question"       
