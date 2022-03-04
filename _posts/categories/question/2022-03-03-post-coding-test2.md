@@ -1,7 +1,7 @@
 ---
 title:  "Q.10871(java)"
 categories:
- - baekjoon(java)
+ - baekjoon
 tags:
  - if
  - for  

@@ -3,7 +3,7 @@ layout: categories
 permalink: /question/
 excerpt: "question"
 categories:
- - baekjoon(java)
+ - baekjoon
 author_profile: true
 sidebar:
     nav: "sidebar_main"

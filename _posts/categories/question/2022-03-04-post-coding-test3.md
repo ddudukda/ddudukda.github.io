@@ -1,0 +1,44 @@
+---
+title:  "Q.10951(java)"
+categories:
+ - baekjoon
+tags:
+ - while  
+author_profile: true
+sidebar:
+    nav: "sidebar_main"  
+---
+#### while문 (EOF)
+
+* * *
+~~~java
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.StringTokenizer;
+
+public class Main {
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in)); 
+        String str; //입력 문자열 받기
+        StringBuilder sb = new StringBuilder(); //테스트 결과
+        StringTokenizer st; //입력받은 문자 형변환
+
+        //입력값(A,B)이 없으면 종료
+        while( (str=br.readLine()) != null ) {
+            st = new StringTokenizer(str," "); //공백
+            int A = Integer.parseInt(st.nextToken());
+            int B = Integer.parseInt(st.nextToken());
+            sb.append(A+B).append("\n");
+        }
+
+        System.out.println(sb);
+    }
+}
+~~~
+*****
+
+<details>
+<summary>정리</summary>
+- EOF(End Of File):  입력에서 더이상 데이터를 읽을 수 없음 <br>
+</details>

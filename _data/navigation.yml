@@ -15,7 +15,7 @@ sidebar_main:
     children:
       - title: "문제"
         url: /question/
-        category: "baekjoon(java)"
+        category: "baekjoon"
 #      - title: "메모"
 #        url: /memo/
 #        category: "memo"  

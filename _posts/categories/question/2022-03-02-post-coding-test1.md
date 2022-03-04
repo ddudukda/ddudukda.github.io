@@ -1,7 +1,7 @@
 ---
 title:  "Q.2480(java)"
 categories:
- - baekjoon(java) 
+ - baekjoon 
 tags: 
  - if  
 author_profile: true
