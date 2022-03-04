@@ -16,7 +16,7 @@ sidebar_main:
       - title: "문제"
         url: /question/
         category: "question"
-      - title: "메모"
-        url: /memo/
-        category: "memo"  
+#      - title: "메모"
+#        url: /memo/
+#        category: "memo"  
             

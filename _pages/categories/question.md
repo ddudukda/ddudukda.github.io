@@ -1,5 +1,5 @@
 ---
-layout: postslist
+layout: posts
 title: question
 permalink: /question/
 excerpt: "question"
