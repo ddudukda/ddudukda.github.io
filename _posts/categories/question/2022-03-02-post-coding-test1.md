@@ -49,7 +49,9 @@ public class Main {
 *****
 <details>
 <summary>정리</summary>
-> BufferedReader 문자열, Integer.parseInt 형변환<br>
-> StringTokenizer <br>
-> Math.max(a,b) 최대값 뽑기
+<span style="color:gray">
+- BufferedReader 문자열, Integer.parseInt 형변환<br>
+- StringTokenizer <br>
+- Math.max(a,b) 최대값 뽑기
+</span>
 </details>

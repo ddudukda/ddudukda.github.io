@@ -39,8 +39,9 @@ public class Main {
 }
 ~~~
 *****
+
 <details>
 <summary>정리</summary>
-> StringBuilder <br>
-> .append
+- StringBuilder <br>
+- .append
 </details>
