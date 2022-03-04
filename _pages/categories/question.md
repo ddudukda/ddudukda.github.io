@@ -1,10 +1,9 @@
 ---
-layout: posts
-title: question
+layout: categories
 permalink: /question/
 excerpt: "question"
 categories:
- - question
+ - baekjoon(java)
 author_profile: true
 sidebar:
     nav: "sidebar_main"

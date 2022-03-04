@@ -1,10 +1,9 @@
 ---
 title:  "Q.2480(java)"
 categories:
- - question
-tags:
- - baekjoon
- - java  
+ - baekjoon(java) 
+tags: 
+ - if  
 author_profile: true
 sidebar:
     nav: "sidebar_main"  

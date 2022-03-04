@@ -1,10 +1,10 @@
 ---
 title:  "Q.10871(java)"
 categories:
- - question
+ - baekjoon(java)
 tags:
- - baekjoon
- - java  
+ - if
+ - for  
 author_profile: true
 sidebar:
     nav: "sidebar_main"  
