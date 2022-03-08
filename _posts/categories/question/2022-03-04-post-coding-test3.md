@@ -8,7 +8,7 @@ author_profile: true
 sidebar:
     nav: "sidebar_main"  
 ---
-#### while문 (EOF)
+#### while문
 
 * * *
 ~~~java

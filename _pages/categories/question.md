@@ -2,7 +2,7 @@
 layout: categories
 permalink: /question/
 excerpt: "question"
-categories:
+category:
  - baekjoon
 author_profile: true
 sidebar:
