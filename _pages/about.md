@@ -5,8 +5,6 @@ title: "About"
 categories: "about"
 excerpt: "about me"
 author_profile: true
-sidebar:
-    nav: "sidebar_main"
 toc: true
 toc_sticky: true
 toc_label: "HELLO"
