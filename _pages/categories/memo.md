@@ -1,11 +1,9 @@
 ---
-layout: postslist copy
+layout: category
 permalink: /memo/
 excerpt: "memo"
 categories:
  - memo
 author_profile: true
-sidebar:
-    nav: "sidebar_main"
 ---
 

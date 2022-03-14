@@ -6,8 +6,11 @@ main:
     url: /about/
   - title: "Tags"
     url: /tags/
+  - title: "Categories"
+    url: /categories/
   - title: "Home"
     url: /
+    
   
 sidebar_main:
   - title: "NOTE"
