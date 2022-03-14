@@ -17,9 +17,9 @@ sidebar_main:
     url: /categories/
     children:
       - title: "문제"
-        url: /question/
+        url: /categories/question/
         category: "baekjoon"
 #      - title: "메모"
-#        url: /memo/
+#        url: /categories/memo/
 #        category: "memo"  
             
