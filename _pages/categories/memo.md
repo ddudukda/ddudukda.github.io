@@ -1,9 +1,9 @@
 ---
 layout: category
-permalink: /memo/
-excerpt: "memo"
-categories:
- - memo
+permalink: /note/
+excerpt: "note"
+category:
+ - note
 author_profile: true
 ---
 
