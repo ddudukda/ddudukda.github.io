@@ -1,7 +1,7 @@
 ---
 layout: category
-permalink: /question/
-excerpt: "question"
+permalink: /baekjoon/
+excerpt: "baekjoon"
 category:
  - baekjoon
 author_profile: true
